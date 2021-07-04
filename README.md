@@ -21,5 +21,5 @@
 
 
 ####  Login Activity
-<img src="./images/ss2.png" width="300"><img src="./images/ss3.png" width="300">
+<img src="./images/ss2.png" width="300"><pre><img src="./images/ss3.png" width="300">
 

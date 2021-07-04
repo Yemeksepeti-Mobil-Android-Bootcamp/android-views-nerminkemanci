@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">firstHomework</string>
+    <string name="headerString">Modern Aesthetic Fashion</string>
+    <string name="buttonWomenString">Shop women</string>
+    <string name="buttonMenString">Shop men</string>
+    <string name="isAccountString">Already have account?</string>
+    <string name="loginString">Log In</string>
+    <string name="welcomeString">Welcome Back!</string>
+    <string name="pleaseString">Please enter your account here</string>
+    <string name="accountString">Email or phone number</string>
+    <string name="passwordString">Password</string>
+    <string name="forgotPasswordString">Forgot password?</string>
+    <string name="loginTwoString">Login</string>
+    <string name="googleString">Google</string>
+    <string name="withString">Or continue with</string>
+    <string name="haventAccaountString">Don’t have any account?</string>
+    <string name="signString">Sign Up</string>
+
+</resources>
